@@ -80,15 +80,4 @@ The dashboard includes important KPIs such as:
 
 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](images/hospital_emergency_room_dashboard.png)
-
-Hospital-Emergency-Room-Dashboard/
-│
-├── README.md
-│
-├── Dashboard/
-│   ├── Hospital Dashboard.xlsx
-│   └── Hospital Emergency Room Dashboard.xlsx
-│
-└── Images/
-    └── Hospital Emergency Room Dashboard.png
+![Hospital Emergency Room Dashboard](Hospital_Emergency_Room_Dashboard.png)
