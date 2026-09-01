@@ -1,83 +1,101 @@
-Hospital-Emergency-Room-Dashboard
+🏥 Hospital Emergency Room Dashboard
 
-Project Overview
+📊 Project Overview
 
-The Hospital Emergency Room Dashboard is an Excel-based data analysis project designed to analyze and visualize emergency room patient data.
+The Hospital Emergency Room Dashboard is an interactive data analytics project developed using **Microsoft Excel**. The project focuses on transforming raw emergency room data into meaningful and actionable insights through data cleaning, analysis, visualization, and dashboard design.
 
-The dashboard provides a simple and interactive view of patient volume, waiting time, satisfaction score, admission status, gender distribution, age groups, and department referrals.
+The dashboard enables users to monitor key performance indicators and analyze various aspects of hospital emergency room operations, including patient volume, waiting time, satisfaction levels, admission status, department referrals, and patient demographics.
 
-Dashboard Preview
+🎯 Project Objectives
+
+The main objective of this project is to analyze hospital emergency room data and present important insights through an interactive and user-friendly dashboard.
+
+Key objectives include:
+
+* Analyzing overall patient volume and trends
+* Monitoring average patient waiting time
+* Evaluating patient satisfaction scores
+* Analyzing patient admission and non-admission status
+* Identifying department referral patterns
+* Understanding patient demographics
+* Creating an interactive dashboard for efficient data exploration
+
+📈 Key Performance Indicators
+
+The dashboard provides insights into the following key metrics:
+
+* Total Patients
+* Average Wait Time
+* Patient Satisfaction Score
+* Admission Status
+* Department Referrals
+* Patient Demographics
+* Patient Trends and Distribution
+
+🛠️ Tools and Technologies
+
+* Microsoft Excel
+* Data Cleaning
+* Data Analysis
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Excel Formulas
+* Data Visualization
+
+📊 Dashboard Features
+
+The dashboard includes interactive visualizations and filters that allow users to explore hospital data efficiently.
+
+Key features include:
+
+* Interactive slicers for data filtering
+* KPI cards for important metrics
+* Patient demographic analysis
+* Wait time analysis
+* Satisfaction score analysis
+* Admission status comparison
+* Department referral analysis
+* Trend-based visualization
+
+📁 Repository Structure
+
+text
+Hospital-Emergency-Room-Dashboard-Excel/
+│
+├── Hospital Dashboard.xlsx
+├── Dashboard Screenshot.png
+└── README.md
+
+🚀 How to Use
+
+1. Download or clone this repository.
+2. Open the `Hospital Dashboard.xlsx` file using Microsoft Excel.
+3. Enable editing if required.
+4. Use the available slicers and filters to interact with the dashboard.
+5. Explore the different metrics and visualizations.
+
+
+💡 Project Learning Outcomes
+
+Through this project, I strengthened my skills in:
+
+* Data Cleaning and Preparation
+* Exploratory Data Analysis
+* Microsoft Excel
+* Pivot Tables and Pivot Charts
+* Interactive Dashboard Development
+* Data Visualization
+* Business and Healthcare Data Analysis
+
+📷 Dashboard Preview
 
 ![Hospital Emergency Room Dashboard](Hospital%20Emergency%20Room%20Dashboard.png)
 
-Objectives
+👨‍💻 Author
 
-The main objectives of this project are:
+Pranjal Gutte
 
-- Analyze the number of emergency room patients.
-- Understand patient waiting time.
-- Analyze patient satisfaction.
-- Compare admitted and non-admitted patients.
-- Analyze patients by gender.
-- Study patient distribution by age group.
-- Analyze department referrals.
-- Identify patients attended within the expected time.
+Aspiring Data Analyst | Data Analytics Enthusiast
 
-Dashboard Features
-
-The dashboard contains the following analysis:
-
-1. Number of Patients
-Displays the total number of patients for the selected period.
-
-2. Average Patient Wait Time
-Shows the average waiting time of emergency room patients.
-
-3. Patient Satisfaction Score
-Displays the average patient satisfaction score.
-
-4. Admission Status
-Compares:
-- Admitted patients
-- Not admitted patients
-
-5. Patients by Gender
-Shows the distribution of male and female patients.
-
-6. Patients Attended Within Time
-Compares patients who experienced:
-- Delay
-- Overtime
-
-7. Patients by Age Group
-Analyzes patients across different age groups.
-
-8. Department Referral
-Shows the number of patients referred to different departments such as:
-- General Practice
-- Orthopedics
-- Physiotherapy
-- Neurology
-- Cardiology
-- Gastroenterology
-- Renal
-
-Tools Used
-
-- Microsoft Excel
-- Excel PivotTables
-- Excel Charts
-- Data Cleaning
-- Data Analysis
-- Dashboard Design
-
-Key KPIs
-
-The dashboard includes important KPIs such as:
-
-- Number of Patients
-- Average Patient Wait Time
-- Patient Satisfaction Score
-- Admission Status
-- Gender Distribution
-- Department Referrals
+⭐ If you find this project useful, please consider giving the repository a star!
